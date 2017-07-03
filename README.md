@@ -5,7 +5,7 @@ Kudos to lavish Jain for the bug fixes
   
 ![Alt text](besty.png)  
   
-![Alt text](Pose Mask.png)  
+![Alt text](Pose\ Mask.png)  
   
-![Alt text](Pose Estimation.png)  
+![Alt text](Pose\ Estimation.png)  
   
